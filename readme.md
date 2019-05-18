@@ -1,0 +1,1 @@
+empezamos otra vez con el proyecto en PyGame para hacer la carrera de tortugas, deconocemos porque el anterior se dejó a medias, en fin seguimos las lecciones
